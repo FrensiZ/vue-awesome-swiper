@@ -9,6 +9,17 @@
   </a>
 </p>
 
+<p></p>
+<p align="center">
+  <a href="https://swiperjs.com" target="_blank">
+    <img width="77px" src="/presses/swiper-logo.svg" />
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://vuejs.org" target="_blank">
+    <img width="79px" src="/presses/vue-logo.png" />
+  </a>
+</p>
+
 # vue-awesome-swiper
 [![vue](https://img.shields.io/badge/MADE%20WITH-VUE-42a97a?style=for-the-badge&labelColor=35495d)](https://vuejs.org)
 &nbsp;
